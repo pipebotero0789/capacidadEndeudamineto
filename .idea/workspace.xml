@@ -31,7 +31,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b3656fc-2e6a-45f6-95a4-cebe232146b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clases/CapacidadEndedudamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/capadidadEndeudamiento/clases/CapacidadEndedudamiento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/capadidadEndeudamiento/clases/CapacidadEndedudamiento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/capadidadEndeudamiento/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/capadidadEndeudamiento/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/CapacidadEndedudamiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/CapacidadEndedudamiento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +54,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hpM8tp5XLZH4YhUn0gi50XuF8R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -92,35 +107,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="412" y="4" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog" timestamp="1600706886031">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="412" y="4" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600706886031" />
-    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1600703893944">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600703893944" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1600708269421">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600708269421" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1600708269420">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600708269420" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1600708269420">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600708269420" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1600708269421">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600708269421" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600707065682">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600707065682" />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
